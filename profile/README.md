@@ -1,8 +1,6 @@
 # CodeSyntax
 
-## Kaixo! 👋
-
-Ongi etorri CodeSyntaxen GitHub kontura!
+## Kaixo! 👋 Ongi etorri CodeSyntaxen GitHub kontura!
 
 CodeSyntaxen Python eta JavaScriptekin egin dugu lan [Plone](https://plone.org) eta [Volto](https://github.com/volto); [Django](https://django.org) eta [Ionic](https://ionicframework.com/#) eta [Capacitor](https://capacitorjs.com/) bezalako tresnak erabiliz.
 
